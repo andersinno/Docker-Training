@@ -46,4 +46,4 @@ For more examples and ideas, visit:
 
 ## Up next
 
-[02 - Interactive Ubuntu Bash](../02-UbuntuBash/02-UbuntuBash.md)
+[02 - Interactive Ubuntu Bash](../02-UbuntuBash/README.md)

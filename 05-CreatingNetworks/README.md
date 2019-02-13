@@ -1,4 +1,4 @@
-# CreatingNetworks
+# Creating Networks
 
 ## Objective
 
@@ -188,4 +188,4 @@ mysqlnet
 
 ## Up next
 
-[06 - Persistent Storage](../06-PersistentStorage/06-PersistentStorage.md)
+[06 - Persistent Storage](../06-PersistentStorage/README.md)

@@ -1,4 +1,4 @@
-# Hello World
+# Cleanup
 
 ## Objective
 
@@ -14,7 +14,7 @@
    * This will remove all networks not in use by at least a single container.
 * Run `docker volume prune`
    * This will remove all volumes not in use by containers.
-   * NOTE: It's rare to need to do this, as it can also clear your persistent storages such as databases etc.
+   * **NOTE**: It's rare to need to do this, as it can also clear your persistent storages such as databases etc.
 
 ## Extra
 

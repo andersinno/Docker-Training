@@ -42,4 +42,4 @@ root@c21f94b81220:/# exit
 
 ## Up next
 
-[03 - Exposing Nginx](../03-Nginx/03-Nginx.md)
+[03 - Exposing Nginx](../03-Nginx/README.md)

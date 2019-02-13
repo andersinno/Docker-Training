@@ -92,4 +92,4 @@ $ curl localhost:8080
 
 ## Up next
 
-[04 - Mounting files to Nginx](../04-MountingFilesNginx/04-MountingFilesNginx.md)
+[04 - Mounting files to Nginx](../04-MountingFilesNginx/README.md)
