@@ -9,6 +9,7 @@
 - [06 - Persistent Storage](06-PersistentStorage/README.md)
 - [07 - Cleanup](07-Cleanup/README.md)
 
-## Building container images
-
 ## Using docker-compose
+
+
+## Building container images
