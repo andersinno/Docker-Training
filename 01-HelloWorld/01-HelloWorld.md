@@ -2,14 +2,13 @@
 
 ## Objective
 
-* Run a docker container based on the `hello-world` container image
+* Run a docker container based on the `hello-world` container image.
 
 ## To-do
 
 * Run `docker run hello-world` on your terminal.
    * This will launch a new container based on the `hello-world` container image.
-   * As the container image isn't found locally, Docker will look for and download
-   it automatically from Dockerhub
+   * As the container image isn't found locally, Docker will look for and download it automatically from Dockerhub.
 
 ## Expected output
 ```
@@ -44,3 +43,7 @@ Share images, automate workflows, and more with a free Docker ID:
 For more examples and ideas, visit:
  https://docs.docker.com/get-started/
 ```
+
+## Up next
+
+[02 - Interactive Ubuntu Bash](../02-UbuntuBash/02-UbuntuBash.md)
