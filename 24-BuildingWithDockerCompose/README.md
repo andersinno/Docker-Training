@@ -42,4 +42,4 @@
 
 ## Up next
 
-[24 - Building with Docker Compose](../24-BuildingWithDockerCompose/README.md)
+[31 - Containerizing a RealWorld ExampleApp](../31-RealWorldExample/README.md)

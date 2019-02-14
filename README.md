@@ -22,11 +22,5 @@
 - [24 - Building with Docker Compose](24-BuildingWithDockerCompose/README.md)
 
 ## Practical examples
-- [31 - Containerizing Django](31-ContainerizingDjango/README.md)
-- [32 - Staticfile Builders](32-StaticfileBuilders/README.md)
-- [33 - Django with a Database](33-DjangoWithDatabase/README.md)
-- [34 - Debug Tools](34-DebugTools/README.md)
-
-## Extra challenges
-- [41 - Volume Export and Import Tool](41-VolumeExportTool/README.md)
+- [31 - Containerizing a RealWorld Example App](31-RealWorldExample/README.md)
 
