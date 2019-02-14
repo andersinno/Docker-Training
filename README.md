@@ -16,9 +16,10 @@
 - [14 - Redmine with Persistent Storage](14-RedmineWithPersistentStorage/README.md)
 
 ## Building container images
-- [21 - Hello World Container](21-HelloWorldContainer/README.md)
+- [21 - Building a Hello World Container](21-BuildingHelloWorldContainer/README.md)
 - [22 - Python Script Container](22-PythonScriptContainer/README.md)
-- [23 - Django Container](23-DjangoContainer/README.md)
+- [23 - Installing Requirements](23-InstallingRequirements/README.md)
+- [24 - Building with Docker Compose](24-BuildingWithDockerCompose/README.md)
 
 ## Practical examples
 - [31 - Containerizing Django](31-ContainerizingDjango/README.md)
@@ -27,6 +28,5 @@
 - [34 - Debug Tools](34-DebugTools/README.md)
 
 ## Extra challenges
-- [41 - Volume Export Tool](41-VolumeExportTool/README.md)
-- [42 - SSH Tunnel Container](42-SSHTunnelContainer/README.md)
-- [43 - ](43)
+- [41 - Volume Export and Import Tool](41-VolumeExportTool/README.md)
+

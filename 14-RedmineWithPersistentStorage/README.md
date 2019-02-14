@@ -16,7 +16,7 @@
 * `docker-compose up` will start the containers defined in `docker-compose.yml`
     * Passing the `-d` flag will cause the containers to be ran on the background
 * `docker-compose down` will stop the containers defined in `docker-compose.yml`
-* Short template docker-compose.yml
+* Short template docker-compose.yml:
     ```yml
     version: '3'
 
@@ -33,4 +33,4 @@
 
 ## Up next
 
-[14 - Redmine with Persistent Storage](../14-RedmineWithPersistentStorage/README.md)
+[21 - Building a Hello World Container](../21-BuildingHelloWorldContainer/README.md)
